@@ -1,13 +1,20 @@
 body{
   background-color: #758dbd;
 }
-
+.principal{
+  background-color: #108294;
+  padding: 
+}
 #banner{
   width: 100%;
 }
+#sa{
+  width: 100%;
+  
+}
 
 h1 {
-  text-align: center;
+  
 }
 
 p {
@@ -37,4 +44,10 @@ em strong{
 }
 .imagem-beneficios{
   width: 50%;
+}
+h3{
+  text-align: center;
+}
+.titulo-principal{
+  padding-left: 20px;
 }
